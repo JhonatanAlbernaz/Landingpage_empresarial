@@ -12,21 +12,21 @@
     width: 775px;
 }
 
-.background-color3 {
+.background-image3 {
     background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/b9df833743ec511aaf30c26e/pexelsphoto3874342.jpeg);
     background-position: center;
     background-size: cover;
     height: 568px;
 }
 
-.background-color4 {
+.background-image4 {
     background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/bc48a0cb914d58289d18e4d9/pexelsphoto3806275.jpeg);
     background-position: center;
     background-size: cover;
     height: 600px;
 }
 
-.background-color5 {
+.background-image5 {
     background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/fd12b1fdd8b25bdfb3eee767/pexelsphoto3806288.jpeg);
     background-position: center;
     background-size: cover;
@@ -280,7 +280,7 @@
         margin-left: 1.5em;
     }
 
-    .background-color3 {
+    .background-image3 {
         background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/b9df833743ec511aaf30c26e/pexelsphoto3874342.jpeg);
         background-position: center;
         background-size: cover;
@@ -373,7 +373,7 @@
 
     .background-color {
         background-image: linear-gradient(#1c2122, #748284);
-        height: 690px;
+        height: 790px;
     }
     
     .titulo-segunda-section {
@@ -393,11 +393,6 @@
         text-align: center;
     }
 
-    .background-color2 {
-        background-color: #748284;
-        height: 860px;
-    }
-    
     .titulo-terceira-section {
         width: 355px;
         font-weight: 700;
@@ -427,7 +422,7 @@
         margin-left: 1.5em;
     }
 
-    .background-color3 {
+    .background-image3 {
         background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/b9df833743ec511aaf30c26e/pexelsphoto3874342.jpeg);
         background-position: center;
         background-size: cover;
@@ -520,7 +515,7 @@
 
     .background-color {
         background-image: linear-gradient(#1c2122, #748284);
-        height: 690px;
+        height: 820px;
     }
     
     .titulo-segunda-section {
@@ -538,11 +533,6 @@
         margin-left: 2em;
         width: 23em;
         text-align: center;
-    }
-
-    .background-color2 {
-        background-color: #748284;
-        height: 860px;
     }
     
     .titulo-terceira-section {
@@ -574,7 +564,7 @@
         margin-left: 2.5em;
     }
 
-    .background-color3 {
+    .background-image3 {
         background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/b9df833743ec511aaf30c26e/pexelsphoto3874342.jpeg);
         background-position: center;
         background-size: cover;
@@ -654,7 +644,7 @@
 
     .background-color {
         background-image: linear-gradient(#1c2122, #748284);
-        height: 465px;
+        height: 830px;
     }
     
     .titulo-segunda-section {
@@ -672,11 +662,6 @@
         color: white;
         margin-left: 6.5em;
         width: 15em;
-    }
-
-    .background-color2 {
-        background-color: #748284;
-        height: 860px;
     }
     
     .titulo-terceira-section {
@@ -708,7 +693,7 @@
         margin-left: 11.3em;
     }
 
-    .background-color3 {
+    .background-image3 {
         background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/b9df833743ec511aaf30c26e/pexelsphoto3874342.jpeg);
         background-position: center;
         background-size: cover;
@@ -806,7 +791,7 @@
 
     .background-color {
         background-image: linear-gradient(#1c2122, #748284);
-        height: 465px;
+        height: 480px;
     }
     
     .titulo-segunda-section {
@@ -824,11 +809,6 @@
         color: white;
         margin-left: 1.5em;
         width: 17em;
-    }
-
-    .background-color2 {
-        background-color: #748284;
-        height: 511px;
     }
     
     .titulo-terceira-section {
@@ -860,7 +840,7 @@
         margin-left: 0em;
     }
 
-    .background-color3 {
+    .background-image3 {
         background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/b9df833743ec511aaf30c26e/pexelsphoto3874342.jpeg);
         background-position: center;
         background-size: cover;
@@ -973,11 +953,6 @@
         margin-left: 0em;
         width: 23em;
     }
-
-    .background-color2 {
-        background-color: #748284;
-        height: 511px;
-    }
     
     .titulo-terceira-section {
         width: 734px;
@@ -1008,7 +983,7 @@
         margin-left: 4em;
     }
 
-    .background-color3 {
+    .background-image3 {
         background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/b9df833743ec511aaf30c26e/pexelsphoto3874342.jpeg);
         background-position: center;
         background-size: cover;
@@ -1070,14 +1045,14 @@
         font-weight: 400;
     }
 
-    .background-color4 {
+    .background-image4 {
         background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/bc48a0cb914d58289d18e4d9/pexelsphoto3806275.jpeg);
         background-position: center;
         background-size: cover;
         height: 600px;
     }
 
-    .background-color5 {
+    .background-image5 {
         background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/fd12b1fdd8b25bdfb3eee767/pexelsphoto3806288.jpeg);
         background-position: center;
         background-size: cover;
