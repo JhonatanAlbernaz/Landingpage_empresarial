@@ -9,4 +9,4 @@ function typeWriter(elemento) {
 const titulo = document.querySelector('.titulo-primeira-section');
 typeWriter(titulo);
 
-typeWriter(document.querySelector('.descricao-primeira-section'));
+typeWriter(document.querySelector('.descricao-primeira-section')); 
