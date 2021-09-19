@@ -40,6 +40,13 @@
     height: 640px;
 }
 
+.background-image-9 {
+    background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/b45b5094672c5cb3919a7f66/lamborghinicarspeedprestige38570.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 403px;
+}
+
 .titulo-primeira-section {
     letter-spacing: 10px;
     font-size: 8rem;
@@ -240,6 +247,66 @@
 
 .botao-setima-section:hover {
     color: white !important;
+}
+
+.background-color-8 {
+    background-color: #1c2122;
+    height: 684px;
+}
+
+.titulo-oitava-section {
+    color: white;
+}
+
+.descricao-oitava-section {
+    color: white;
+    padding-top: 3em;
+    font-weight: 400;
+}
+
+.padding-top-3 {
+    padding-top: 3em;
+}
+
+.widht-18 {
+    width: 18rem
+}
+
+.background-color-9 {
+    background-color: #1c2122;
+    height: 403px;
+}
+
+.titulo-nona-section {
+    color: white;
+    font-weight: 700;
+    font-size: 2.25rem;
+    margin: 136px 0 0 20px;
+    width: 10em;
+    padding-left: 1em;
+}
+
+.background-color-rodape {
+    background-color: #333333;
+    height: 240px;
+}
+
+.descricao-rodape {
+    color: white;
+    width: 480px;
+    margin-top: 49px;
+    margin-bottom: 49px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link-rodape {
+    color: white;
+}
+
+.link-rodape:hover {
+    color: white !important;
+    text-decoration: none !important;
 }
 
 @media (max-width: 320px) {
@@ -482,6 +549,73 @@
     .botao-setima-section:hover {
         color: white !important;
     }
+
+    .background-color-8 {
+        background-color: #1c2122;
+        height: 1910px;
+    }
+    
+    .titulo-oitava-section {
+        color: white;
+    }
+    
+    .descricao-oitava-section {
+        color: white;
+        padding-top: 3em;
+        font-weight: 400;
+    }
+    
+    .padding-top-3 {
+        padding-top: 3em;
+    }
+
+    .widht-18 {
+        width: 17rem;
+    }
+
+    .background-image-9 {
+        background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/b45b5094672c5cb3919a7f66/lamborghinicarspeedprestige38570.jpeg);
+        background-position: center;
+        background-size: cover;
+        height: 268px;
+    }
+    
+    .background-color-9 {
+        background-color: #1c2122;
+        height: 260px;
+    }
+    
+    .titulo-nona-section {   
+        color: white;
+        font-weight: 700;
+        font-size: 2rem;
+        margin: 55px 0 0 20px;
+        width: 8em;
+        padding-left: 0em;
+    }
+
+    .background-color-rodape {
+        background-color: #333333;
+        height: 240px;
+    }
+    
+    .descricao-rodape {
+        color: white;
+        width: 275px;
+        margin-top: 49px;
+        margin-bottom: 49px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .link-rodape {
+        color: white;
+    }
+    
+    .link-rodape:hover {
+        color: white !important;
+        text-decoration: none !important;
+    }
 }
 
 @media (min-width: 321px) and (max-width: 375px) {
@@ -717,6 +851,73 @@
     
     .botao-setima-section:hover {
         color: white !important;
+    }
+
+    .background-color-8 {
+        background-color: #1c2122;
+        height: 1820px;
+    }
+    
+    .titulo-oitava-section {
+        color: white;
+    }
+    
+    .descricao-oitava-section {
+        color: white;
+        padding-top: 3em;
+        font-weight: 400;
+    }
+    
+    .padding-top-3 {
+        padding-top: 3em;
+    }
+
+    .widht-18 {
+        width: 20rem;
+    }
+
+    .background-image-9 {
+        background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/b45b5094672c5cb3919a7f66/lamborghinicarspeedprestige38570.jpeg);
+        background-position: center;
+        background-size: cover;
+        height: 268px;
+    }
+    
+    .background-color-9 {
+        background-color: #1c2122;
+        height: 260px;
+    }
+    
+    .titulo-nona-section {   
+        color: white;
+        font-weight: 700;
+        font-size: 2rem;
+        margin: 55px 0 0 20px;
+        width: 9em;
+        padding-left: 1em;
+    }
+
+    .background-color-rodape {
+        background-color: #333333;
+        height: 240px;
+    }
+    
+    .descricao-rodape {
+        color: white;
+        width: 329px;
+        margin-top: 49px;
+        margin-bottom: 49px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .link-rodape {
+        color: white;
+    }
+    
+    .link-rodape:hover {
+        color: white !important;
+        text-decoration: none !important;
     }
 }
 
@@ -954,6 +1155,73 @@
     .botao-setima-section:hover {
         color: white !important;
     }
+
+    .background-color-8 {
+        background-color: #1c2122;
+        height: 1970px;
+    }
+    
+    .titulo-oitava-section {
+        color: white;
+    }
+    
+    .descricao-oitava-section {
+        color: white;
+        padding-top: 3em;
+        font-weight: 400;
+    }
+    
+    .padding-top-3 {
+        padding-top: 3em;
+    }
+
+    .widht-18 {
+        width: 24rem;
+    }
+
+    .background-image-9 {
+        background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/b45b5094672c5cb3919a7f66/lamborghinicarspeedprestige38570.jpeg);
+        background-position: center;
+        background-size: cover;
+        height: 268px;
+    }
+    
+    .background-color-9 {
+        background-color: #1c2122;
+        height: 230px;
+    }
+    
+    .titulo-nona-section {   
+        color: white;
+        font-weight: 700;
+        font-size: 2rem;
+        margin: 55px 0 0 20px;
+        width: 11em;
+        padding-left: 0em;
+    }
+
+    .background-color-rodape {
+        background-color: #333333;
+        height: 240px;
+    }
+    
+    .descricao-rodape {
+        color: white;
+        width: 329px;
+        margin-top: 49px;
+        margin-bottom: 49px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .link-rodape {
+        color: white;
+    }
+    
+    .link-rodape:hover {
+        color: white !important;
+        text-decoration: none !important;
+    }
 }
 
 @media (min-width: 577px) and (max-width: 768px) {
@@ -1174,6 +1442,73 @@
     
     .botao-setima-section:hover {
         color: white !important;
+    }
+
+    .background-color-8 {
+        background-color: #1c2122;
+        height: 735px;
+    }
+    
+    .titulo-oitava-section {
+        color: white;
+    }
+    
+    .descricao-oitava-section {
+        color: white;
+        padding-top: 3em;
+        font-weight: 400;
+    }
+    
+    .padding-top-3 {
+        padding-top: 3em;
+    }
+
+    .widht-18 {
+        width: 13rem
+    }
+
+    .background-image-9 {
+        background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/b45b5094672c5cb3919a7f66/lamborghinicarspeedprestige38570.jpeg);
+        background-position: center;
+        background-size: cover;
+        height: 268px;
+    }
+    
+    .background-color-9 {
+        background-color: #1c2122;
+        height: 200px;
+    }
+    
+    .titulo-nona-section {
+        color: white;
+        font-weight: 700;
+        font-size: 2.25rem;
+        margin: 55px 0 0 20px;
+        width: 19.5em;
+        padding-left: 0em;
+    }
+
+    .background-color-rodape {
+        background-color: #333333;
+        height: 240px;
+    }
+    
+    .descricao-rodape {
+        color: white;
+        width: 480px;
+        margin-top: 49px;
+        margin-bottom: 49px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .link-rodape {
+        color: white;
+    }
+    
+    .link-rodape:hover {
+        color: white !important;
+        text-decoration: none !important;
     }
 }
 
@@ -1402,6 +1737,73 @@
     
     .botao-setima-section:hover {
         color: white !important;
+    }
+
+    .background-color-8 {
+        background-color: #1c2122;
+        height: 735px;
+    }
+    
+    .titulo-oitava-section {
+        color: white;
+    }
+    
+    .descricao-oitava-section {
+        color: white;
+        padding-top: 3em;
+        font-weight: 400;
+    }
+    
+    .padding-top-3 {
+        padding-top: 3em;
+    }
+
+    .widht-18 {
+        width: 18rem
+    }
+
+    .background-image-9 {
+        background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/b45b5094672c5cb3919a7f66/lamborghinicarspeedprestige38570.jpeg);
+        background-position: center;
+        background-size: cover;
+        height: 403px;
+    }
+    
+    .background-color-9 {
+        background-color: #1c2122;
+        height: 403px;
+    }
+    
+    .titulo-nona-section {
+        color: white;
+        font-weight: 700;
+        font-size: 2.25rem;
+        margin: 136px 0 0 20px;
+        width: 8em;
+        padding-left: 0em;
+    }
+
+    .background-color-rodape {
+        background-color: #333333;
+        height: 240px;
+    }
+    
+    .descricao-rodape {
+        color: white;
+        width: 480px;
+        margin-top: 49px;
+        margin-bottom: 49px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .link-rodape {
+        color: white;
+    }
+    
+    .link-rodape:hover {
+        color: white !important;
+        text-decoration: none !important;
     }
 }
 
@@ -1633,5 +2035,72 @@
     
     .botao-setima-section:hover {
         color: white !important;
+    }
+
+    .background-color-8 {
+        background-color: #1c2122;
+        height: 684px;
+    }
+    
+    .titulo-oitava-section {
+        color: white;
+    }
+    
+    .descricao-oitava-section {
+        color: white;
+        padding-top: 3em;
+        font-weight: 400;
+    }
+    
+    .padding-top-3 {
+        padding-top: 3em;
+    }
+
+    .widht-18 {
+        width: 18rem
+    }
+
+    .background-image-9 {
+        background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/b45b5094672c5cb3919a7f66/lamborghinicarspeedprestige38570.jpeg);
+        background-position: center;
+        background-size: cover;
+        height: 403px;
+    }
+    
+    .background-color-9 {
+        background-color: #1c2122;
+        height: 403px;
+    }
+    
+    .titulo-nona-section {
+        color: white;
+        font-weight: 700;
+        font-size: 2.25rem;
+        margin: 136px 0 0 20px;
+        width: 10em;
+        padding-left: 1em;
+    }
+
+    .background-color-rodape {
+        background-color: #333333;
+        height: 240px;
+    }
+    
+    .descricao-rodape {
+        color: white;
+        width: 480px;
+        margin-top: 49px;
+        margin-bottom: 49px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .link-rodape {
+        color: white;
+    }
+    
+    .link-rodape:hover {
+        color: white !important;
+        text-decoration: none !important;
     }
 }
