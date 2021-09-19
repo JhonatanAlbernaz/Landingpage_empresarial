@@ -33,6 +33,13 @@
     margin-top: 17em;
 }
 
+.background-image7 {
+    background-image: url(https://images03.nicepage.com/c461c07a441a5d220e8feb1a/7d6eecc973ab56b5890a68f5/dsfdfmin.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 640px;
+}
+
 .titulo-primeira-section {
     letter-spacing: 10px;
     font-size: 8rem;
@@ -85,7 +92,7 @@
 .descricao-terceira-section {
     color: white;
     width: 33em;
-    margin-left: 28em;
+    margin-left: 25em;
     padding-top: 1em;
 }
 
@@ -194,6 +201,45 @@
 
 .margin-top-30 {
     margin-top: 30em;
+}
+
+.margin-top2-30 {
+    margin-top: 30em;
+}
+
+.background-color-6 {
+    background-color: #748284;
+    height: 200px;
+}
+
+.background-color-7 {
+    background-color: #1c2122;
+    height: 640px;
+}
+
+.titulo-setima-section {
+    color: white;
+    font-size: 2.25rem;
+    margin: 22px 0 0;
+}
+
+.descricao-setima-section {
+    color: white;
+    font-size: 1.125rem;
+    width: 27em;
+    padding-left: 3em;
+    margin: 22px 0 0;
+}
+
+.botao-setima-section {
+    border-radius: 40px;
+    color: black !important;
+    margin-top: 6%;
+    width: 11em;
+}
+
+.botao-setima-section:hover {
+    color: white !important;
 }
 
 @media (max-width: 320px) {
@@ -341,6 +387,101 @@
         border: 2px solid red;
         font-weight: 400;
     }
+
+    .background-image4 {
+        background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/bc48a0cb914d58289d18e4d9/pexelsphoto3806275.jpeg);
+        background-position: center;
+        background-size: cover;
+        height: 520px;
+        margin-top: 35em;
+    }
+
+    .background-image5 {
+        background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/fd12b1fdd8b25bdfb3eee767/pexelsphoto3806288.jpeg);
+        background-position: center;
+        background-size: cover;
+        margin-top: 16em;
+        width: 18em;
+        position: absolute;
+        height: 22em;
+        padding-left: 18em;
+    }
+
+    .margin-top-30 {
+        margin-top: 38em;
+        width: 25em;
+    }
+
+    .margin-top2-30 {
+        margin-top: 0em;
+        width: 27em;
+    }
+
+    .background-color-6 {
+        background-color: #748284;
+        height: 640px;
+    }
+
+    .titulo-quinta-section {
+        font-size: 1.875rem;
+        font-weight: 400;
+        margin: 50px 0 0;
+        color: white;
+    }
+    
+    .descricao-quinta-section {
+        font-style: normal;
+        margin: 20px 0 0;
+        color: white;
+    }
+    
+    .titulo2-quinta-section {
+        font-size: 1.875rem;
+        font-weight: 400;
+        margin: 50px 0 0;
+    }
+    
+    .descricao2-quinta-section {
+        font-style: normal;
+        margin: 20px 0 0;
+    }
+
+    .background-image7 {
+        background-image: url(https://images03.nicepage.com/c461c07a441a5d220e8feb1a/7d6eecc973ab56b5890a68f5/dsfdfmin.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 620px;
+    }
+
+    .background-color-7 {
+        background-color: #1c2122;
+        height: 620px;
+    }
+    
+    .titulo-setima-section {
+        color: white;
+        font-size: 2.25rem;
+        margin: 22px 0 0;
+    }
+    
+    .descricao-setima-section {
+        color: white;
+        font-size: 1.125rem;
+        width: 15em;
+        padding-left: 1em;
+        margin: 22px 0 0;
+    }
+    
+    .botao-setima-section {
+        border-radius: 40px;
+        color: black !important;
+        margin-top: 8%;
+        width: 11em;
+    }
+    
+    .botao-setima-section:hover {
+        color: white !important;
+    }
 }
 
 @media (min-width: 321px) and (max-width: 375px) {
@@ -482,6 +623,100 @@
         background-color: red;
         border: 2px solid red;
         font-weight: 400;
+    }
+
+    .background-image4 {
+        background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/bc48a0cb914d58289d18e4d9/pexelsphoto3806275.jpeg);
+        background-position: center;
+        background-size: cover;
+        height: 520px;
+        margin-top: 35em;
+    }
+
+    .background-image5 {
+        background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/fd12b1fdd8b25bdfb3eee767/pexelsphoto3806288.jpeg);
+        background-position: center;
+        background-size: cover;
+        margin-top: 16em;
+        width: 25em;
+        position: absolute;
+        height: 22em;
+    }
+
+    .margin-top-30 {
+        margin-top: 38em;
+        width: 25em;
+    }
+
+    .margin-top2-30 {
+        margin-top: 0em;
+        width: 27em;
+    }
+
+    .background-color-6 {
+        background-color: #748284;
+        height: 640px;
+    }
+
+    .titulo-quinta-section {
+        font-size: 1.875rem;
+        font-weight: 400;
+        margin: 50px 0 0;
+        color: white;
+    }
+    
+    .descricao-quinta-section {
+        font-style: normal;
+        margin: 20px 0 0;
+        color: white;
+    }
+    
+    .titulo2-quinta-section {
+        font-size: 1.875rem;
+        font-weight: 400;
+        margin: 50px 0 0;
+    }
+    
+    .descricao2-quinta-section {
+        font-style: normal;
+        margin: 20px 0 0;
+    }
+
+    .background-image7 {
+        background-image: url(https://images03.nicepage.com/c461c07a441a5d220e8feb1a/7d6eecc973ab56b5890a68f5/dsfdfmin.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 620px;
+    }
+
+    .background-color-7 {
+        background-color: #1c2122;
+        height: 620px;
+    }
+    
+    .titulo-setima-section {
+        color: white;
+        font-size: 2.25rem;
+        margin: 22px 0 0;
+    }
+    
+    .descricao-setima-section {
+        color: white;
+        font-size: 1.125rem;
+        width: 17em;
+        padding-left: 3em;
+        margin: 22px 0 0;
+    }
+    
+    .botao-setima-section {
+        border-radius: 40px;
+        color: black !important;
+        margin-top: 8%;
+        width: 11em;
+    }
+    
+    .botao-setima-section:hover {
+        color: white !important;
     }
 }
 
@@ -625,6 +860,100 @@
         border: 2px solid red;
         font-weight: 400;
     }
+
+    .background-image4 {
+        background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/bc48a0cb914d58289d18e4d9/pexelsphoto3806275.jpeg);
+        background-position: center;
+        background-size: cover;
+        height: 520px;
+        margin-top: 35em;
+    }
+
+    .background-image5 {
+        background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/fd12b1fdd8b25bdfb3eee767/pexelsphoto3806288.jpeg);
+        background-position: center;
+        background-size: cover;
+        margin-top: 16em;
+        width: 25em;
+        position: absolute;
+        height: 22em;
+    }
+
+    .margin-top-30 {
+        margin-top: 38em;
+        width: 25em;
+    }
+
+    .margin-top2-30 {
+        margin-top: 0em;
+        width: 27em;
+    }
+
+    .background-color-6 {
+        background-color: #748284;
+        height: 640px;
+    }
+
+    .titulo-quinta-section {
+        font-size: 1.875rem;
+        font-weight: 400;
+        margin: 50px 0 0;
+        color: white;
+    }
+    
+    .descricao-quinta-section {
+        font-style: normal;
+        margin: 20px 0 0;
+        color: white;
+    }
+    
+    .titulo2-quinta-section {
+        font-size: 1.875rem;
+        font-weight: 400;
+        margin: 50px 0 0;
+    }
+    
+    .descricao2-quinta-section {
+        font-style: normal;
+        margin: 20px 0 0;
+    }
+
+    .background-image7 {
+        background-image: url(https://images03.nicepage.com/c461c07a441a5d220e8feb1a/7d6eecc973ab56b5890a68f5/dsfdfmin.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 580px;
+    }
+
+    .background-color-7 {
+        background-color: #1c2122;
+        height: 580px;
+    }
+    
+    .titulo-setima-section {
+        color: white;
+        font-size: 2.25rem;
+        margin: 22px 0 0;
+    }
+    
+    .descricao-setima-section {
+        color: white;
+        font-size: 1.125rem;
+        width: 19em;
+        padding-left: 3em;
+        margin: 22px 0 0;
+    }
+    
+    .botao-setima-section {
+        border-radius: 40px;
+        color: black !important;
+        margin-top: 8%;
+        width: 11em;
+    }
+    
+    .botao-setima-section:hover {
+        color: white !important;
+    }
 }
 
 @media (min-width: 577px) and (max-width: 768px) {
@@ -753,6 +1082,98 @@
         background-color: red;
         border: 2px solid red;
         font-weight: 400;
+    }
+
+    .background-image4 {
+        background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/bc48a0cb914d58289d18e4d9/pexelsphoto3806275.jpeg);
+        background-position: center;
+        background-size: cover;
+        height: 500px;
+        margin-top: 35em;
+    }
+
+    .background-image5 {
+        background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/fd12b1fdd8b25bdfb3eee767/pexelsphoto3806288.jpeg);
+        background-position: center;
+        background-size: cover;
+        margin-top: 27em;
+        width: 13em;
+    }
+
+    .margin-top-30 {
+        margin-top: 27em;
+        width: 16em;
+    }
+
+    .margin-top2-30 {
+        margin-top: 27em;
+        width: 16em;
+    }
+
+    .background-color-6 {
+        background-color: #748284;
+        height: 230px;
+    }
+
+    .titulo-quinta-section {
+        font-size: 1.875rem;
+        font-weight: 400;
+        margin: 50px 0 0;
+        color: white;
+    }
+    
+    .descricao-quinta-section {
+        font-style: normal;
+        margin: 20px 0 0;
+        color: white;
+    }
+    
+    .titulo2-quinta-section {
+        font-size: 1.875rem;
+        font-weight: 400;
+        margin: 50px 0 0;
+    }
+    
+    .descricao2-quinta-section {
+        font-style: normal;
+        margin: 20px 0 0;
+    }
+
+    .background-image7 {
+        background-image: url(https://images03.nicepage.com/c461c07a441a5d220e8feb1a/7d6eecc973ab56b5890a68f5/dsfdfmin.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 550px;
+    }
+
+    .background-color-7 {
+        background-color: #1c2122;
+        height: 550px;
+    }
+    
+    .titulo-setima-section {
+        color: white;
+        font-size: 2.25rem;
+        margin: 22px 0 0;
+    }
+    
+    .descricao-setima-section {
+        color: white;
+        font-size: 1.125rem;
+        width: 41em;
+        padding-left: 3em;
+        margin: 22px 0 0;
+    }
+    
+    .botao-setima-section {
+        border-radius: 40px;
+        color: black !important;
+        margin-top: 8%;
+        width: 11em;
+    }
+    
+    .botao-setima-section:hover {
+        color: white !important;
     }
 }
 
@@ -898,8 +1319,89 @@
     .botao-quarta-section:hover {
         color: white !important;
         background-color: red;
-        border: 2px solid red;
+        border: 2px solid #ff0000;
         font-weight: 400;
+    }
+
+    .background-image5 {
+        background-image: url(https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/fd12b1fdd8b25bdfb3eee767/pexelsphoto3806288.jpeg);
+        background-position: center;
+        background-size: cover;
+        margin-top: 17em;
+    }
+
+    .margin-top-30 {
+        margin-top: 30em;
+    }
+
+    .margin-top2-30 {
+        margin-top: 30em;
+    }
+
+    .background-color-6 {
+        background-color: #748284;
+        height: 200px;
+    }
+
+    .titulo-quinta-section {
+        font-size: 1.875rem;
+        font-weight: 400;
+        margin: 50px 0 0;
+        color: white;
+    }
+    
+    .descricao-quinta-section {
+        font-style: normal;
+        margin: 20px 0 0;
+        color: white;
+    }
+    
+    .titulo2-quinta-section {
+        font-size: 1.875rem;
+        font-weight: 400;
+        margin: 50px 0 0;
+    }
+    
+    .descricao2-quinta-section {
+        font-style: normal;
+        margin: 20px 0 0;
+    }
+
+    .background-image7 {
+        background-image: url(https://images03.nicepage.com/c461c07a441a5d220e8feb1a/7d6eecc973ab56b5890a68f5/dsfdfmin.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 640px;
+    }
+
+    .background-color-7 {
+        background-color: #1c2122;
+        height: 640px;
+    }
+    
+    .titulo-setima-section {
+        color: white;
+        font-size: 2.25rem;
+        margin: 22px 0 0;
+    }
+    
+    .descricao-setima-section {
+        color: white;
+        font-size: 1.125rem;
+        width: 21em;
+        padding-left: 1em;
+        margin: 22px 0 0;
+    }
+    
+    .botao-setima-section {
+        border-radius: 40px;
+        color: black !important;
+        margin-top: 8%;
+        width: 11em;
+    }
+    
+    .botao-setima-section:hover {
+        color: white !important;
     }
 }
 
@@ -965,7 +1467,7 @@
     .descricao-terceira-section {
         color: white;
         width: 33em;
-        margin-left: 28em;
+        margin-left: 26em;
         padding-top: 1em;
     }
     
@@ -1057,5 +1559,79 @@
         background-position: center;
         background-size: cover;
         margin-top: 17em;
+    }
+
+    .margin-top-30 {
+        margin-top: 30em;
+    }
+
+    .margin-top2-30 {
+        margin-top: 30em;
+    }
+
+    .background-color-6 {
+        background-color: #748284;
+        height: 200px;
+    }
+
+    .titulo-quinta-section {
+        font-size: 1.875rem;
+        font-weight: 400;
+        margin: 50px 0 0;
+        color: white;
+    }
+    
+    .descricao-quinta-section {
+        font-style: normal;
+        margin: 20px 0 0;
+        color: white;
+    }
+    
+    .titulo2-quinta-section {
+        font-size: 1.875rem;
+        font-weight: 400;
+        margin: 50px 0 0;
+    }
+    
+    .descricao2-quinta-section {
+        font-style: normal;
+        margin: 20px 0 0;
+    }
+
+    .background-image7 {
+        background-image: url(https://images03.nicepage.com/c461c07a441a5d220e8feb1a/7d6eecc973ab56b5890a68f5/dsfdfmin.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 640px;
+    }
+
+    .background-color-7 {
+        background-color: #1c2122;
+        height: 640px;
+    }
+    
+    .titulo-setima-section {
+        color: white;
+        font-size: 2.25rem;
+        margin: 22px 0 0;
+    }
+    
+    .descricao-setima-section {
+        color: white;
+        font-size: 1.125rem;
+        width: 27em;
+        padding-left: 3em;
+        margin: 22px 0 0;
+    }
+    
+    .botao-setima-section {
+        border-radius: 40px;
+        color: black !important;
+        margin-top: 6%;
+        width: 11em;
+    }
+    
+    .botao-setima-section:hover {
+        color: white !important;
     }
 }
